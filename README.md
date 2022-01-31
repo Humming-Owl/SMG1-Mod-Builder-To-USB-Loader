@@ -6,7 +6,7 @@ If you want to contribute improving the tool and/or with a new hack write go to 
 
 # Dependencies:
 
-Wiimm's ISO Tools --> https://wit.wiimm.de/
+Wiimm's ISO Tools (WIT) --> https://wit.wiimm.de/
 
 # Usage:
 
@@ -16,7 +16,7 @@ Wiimm's ISO Tools --> https://wit.wiimm.de/
 
 Hacks are stored in Internet Archive at --> https://archive.org/details/SMG_1-2_Rom_Hacks 
 
-You can Either download the hack and place the compressed file at the correct location "mods/<hackname>/" or let the program download the hack for you.
+You can Either download the hack and place the compressed file at the correct location "mods/hackname/" or let the program download the hack for you.
 
 # SMG1 Rom Hack List:
 
