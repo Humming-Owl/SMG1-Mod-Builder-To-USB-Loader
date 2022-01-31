@@ -20,32 +20,32 @@ You can Either download the hack and place the compressed file at the correct lo
 
 # SMG1 Rom Hack List:
 
-- Kaizo Mario Galaxy (v1.2)
-   Author: thegreatwaluigi
+- Kaizo Mario Galaxy (v1.2),
+   Author: thegreatwaluigi,
    Trailer: https://www.youtube.com/watch?v=KzKe9H63cW4
 
-- Super Mario Galaxy: Transformationless Challenge (v1.0.1)
-   Author: PudvahCrew
+- Super Mario Galaxy: Transformationless Challenge (v1.0.1),
+   Author: PudvahCrew,
    Trailer: https://youtu.be/mMBXMdPq4MQ
 
-- Super Mario Galaxy: No Gravity Edition (v1.0)
-  Author: SPG64
+- Super Mario Galaxy: No Gravity Edition (v1.0),
+  Author: SPG64,
   Trailer: https://youtu.be/EMbQVwhZ0iw
 
-- Super Mario Galaxy: The Green Stars (v1.1)
-  Authors: Laurozz, thegreatwaluigi
+- Super Mario Galaxy: The Green Stars (v1.1),
+  Authors: Laurozz, thegreatwaluigi,
   Trailer: https://www.youtube.com/watch?v=b5oXUGO4dSQ
 
-- Super Mario Galaxy: The Kaizo Green Stars (v1.6.1)
-  Author: Evanbowl
+- Super Mario Galaxy: The Kaizo Green Stars (v1.6.1),
+  Author: Evanbowl,
   Trailer: https://www.youtube.com/watch?v=PCKIPYNyjmA
 
-- Super Mario Galaxy: Underwater Edition
-  Author: SPG64
+- Super Mario Galaxy: Underwater Edition,
+  Author: SPG64,
   Trailer: https://www.youtube.com/watch?v=YEqf_hzOT6k
 
-- Super Mario Galaxy: Cosmic Caos (v1.3.5)
-  Author: PudvahCrew
+- Super Mario Galaxy: Cosmic Caos (v1.3.5),
+  Author: PudvahCrew,
   Trailer: https://www.youtube.com/watch?v=rWGJaz5Ynt8
 
 # Thanks to:
