@@ -1,6 +1,6 @@
 # SMG1-Mod-Builder-To-USB-Loader
 
-NOTE: Some Hacks aren't completely patched due to limited knowledge and/or some broke the game in the USB Loader.
+NOTE: Some Hacks aren't completely patched due to limited knowledge and/or some patches broke the game in the USB Loader.
 
 If you want to contribute improving the tool and/or with a new hack go to "Issues" and open a new one.
 
