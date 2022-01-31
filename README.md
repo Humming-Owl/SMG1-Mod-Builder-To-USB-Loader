@@ -4,7 +4,7 @@ NOTE: Some Hacks aren't completely patched due to limited knowledge and/or some 
 
 If you want to contribute improving the tool and/or with a new hack write go to "Issues" and open a new one.
 
-If you have the original disc image of SMG1 or you can use Dolphin then you don't need at all to use this tool, this was designed for the purpose of those don't have the original game disc and/or a decent computer to run Dolphin on.
+If you have the original disc image of SMG1 or you can use Dolphin then you don't need at all to use this tool, this was designed for those who don't have the original game disc and/or a decent computer to run Dolphin.
 
 # Dependencies:
 
